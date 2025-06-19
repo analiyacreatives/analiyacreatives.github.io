@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AnAliya Creatives</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f6fb;
+      color: #333;
+    }
+    header {
+      background-color: #5e4b8b;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #fff;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #5e4b8b;
+    }
+    footer {
+      background-color: #5e4b8b;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>AnAliya Creatives</h1>
+    <p>Designs That Speak!</p>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>Welcome!</h2>
+    <p>I'm Aliya, a freelance graphic designer. I create stunning visuals for your brand, social media, and online business.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Founder of AnAliya Creatives. I specialize in modern, creative, and aesthetic designs. Whether you need a logo, Instagram post, or reel thumbnail, I'm here to help you grow!</p>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Instagram Post & Carousel Design</li>
+      <li>Logo Design for Brand Identity</li>
+      <li>Reels Thumbnails & YouTube Thumbnails</li>
+      <li>Poster, Flyer & Banner Design</li>
+    </ul>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <p>Coming soon! Meanwhile, check my work on Instagram: <strong>@analiyacreatives</strong></p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: analiyadesigns@gmail.com</p>
+    <p>Instagram: <a href="https://instagram.com/analiyacreatives" target="_blank">@analiyacreatives</a></p>
+    <p>DM me for custom design orders!</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 AnAliya Creatives. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
